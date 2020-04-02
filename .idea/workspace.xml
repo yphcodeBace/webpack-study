@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2d796cd-e94f-49fb-b820-a84e676e5554" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo01/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo02/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo02/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo07/dist/app.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo07/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo07/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo07/dist/print.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo09/dist/app.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo09/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo09/dist/print.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo13/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo13/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo14/dist/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo14/dist/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo14/dist/js/otherA.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo14/dist/js/otherA.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo14/dist/js/otherB.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo14/dist/js/otherB.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/css/commons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/css/otherA.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/css/otherB.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/js/commons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/js/otherA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/js/otherB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/otherA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/dist/otherB.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/src/common/css/common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo16/src/components/index/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo16/src/components/index/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/demo01/package.json" />
+  </component>
+  <component name="ProjectId" id="1ZQbOMsb4W6BKmlpn651GtSyEDM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-study" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\webpack-demo\demo22\src\pages\test" />
+      <recent name="D:\workspace\webpack-demo\demo22\src\pages\otherB" />
+      <recent name="D:\workspace\webpack-demo\demo22\src\pages\otherA" />
+      <recent name="D:\workspace\webpack-demo\demo22\src\components" />
+      <recent name="D:\workspace\webpack-demo\demo22\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\webpack-demo\demo22\src\pages\test\components" />
+      <recent name="D:\workspace\webpack-demo\demo22\src\pages\otherB\components" />
+      <recent name="D:\workspace\webpack-demo\demo22\src\pages\otherA\components" />
+      <recent name="D:\workspace\webpack-demo\demo22\src\pages\index\components" />
+      <recent name="D:\workspace\webpack-demo\demo22\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/demo01/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2d796cd-e94f-49fb-b820-a84e676e5554" name="Default" comment="" />
+      <created>1544442667914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544442667914</updated>
+      <workItem from="1544442669852" duration="7986000" />
+      <workItem from="1544452457459" duration="34000" />
+      <workItem from="1544455260323" duration="128000" />
+      <workItem from="1544456963621" duration="5965000" />
+      <workItem from="1544534533989" duration="9927000" />
+      <workItem from="1544578925433" duration="8831000" />
+      <workItem from="1544595381458" duration="5258000" />
+      <workItem from="1544601789095" duration="5233000" />
+      <workItem from="1544702319109" duration="48000" />
+      <workItem from="1544702408699" duration="292000" />
+      <workItem from="1544705979277" duration="15000" />
+      <workItem from="1584774236043" duration="4373000" />
+      <workItem from="1584778632441" duration="19065000" />
+      <workItem from="1584932298801" duration="284000" />
+      <workItem from="1584933534688" duration="28000" />
+      <workItem from="1585043058658" duration="20028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1585132824023">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585132824023" />
+    <state width="1579" height="351" key="GridCell.Tab.0.bottom" timestamp="1584881786775">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="351" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584881786775" />
+    <state width="1579" height="351" key="GridCell.Tab.0.center" timestamp="1584881786775">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="351" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584881786775" />
+    <state width="1579" height="351" key="GridCell.Tab.0.left" timestamp="1584881786774">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="351" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584881786774" />
+    <state width="1579" height="351" key="GridCell.Tab.0.right" timestamp="1584881786775">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="351" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584881786775" />
+    <state x="167" y="74" key="SettingsEditor" timestamp="1584783761795">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="167" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584783761795" />
+    <state x="592" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584782105453">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="592" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1584782105453" />
+    <state x="456" y="83" width="672" height="676" key="search.everywhere.popup" timestamp="1584844930971">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="83" width="672" height="676" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1584844930971" />
+  </component>
+</project>
